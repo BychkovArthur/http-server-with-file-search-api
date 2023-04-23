@@ -1,6 +1,6 @@
 # http-server-with-file-search-api
 
-* Сервер и API идут с виртуальным окружением, его нужно будет активировать.
+* Для работы сервера и запросов нужно установить Django и requests
 * .\kaspersky project\kaspersky_test_task\file_finder\file_api.py - само API
 * В папке kaspersky_tests находятся файлы для теста запроса к серверу
 
